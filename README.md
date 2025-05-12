@@ -1,2 +1,4 @@
-# ptit-labtainer-frame_collisions_pattern
-Lab 1 bài tập lớn kỹ thuật giấu tin
+# Frame Collisions Pattern Covert Channel Lab
+
+**Mô tả**: Lab ẩn tin qua CSMA/CD và splitting.
+**Mục tiêu**: Import module, gây collision, back-off encoding, splitting, recover data.
